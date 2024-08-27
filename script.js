@@ -69,7 +69,7 @@ function playGame() {
         console.log(`%c It Was a Draw!!! ${humanScore}: ${computerScore}`, `font-size: 25px; background: orange;`);
     }
     else {
-        console.log(`%c Computer Won!!! ${humanScore}: ${computerScore}`, `font-size: 25px; background: red;`);
+        console.log(`%c Computer Won!!! ${computerScore}: ${humanScore}`, `font-size: 25px; background: red;`);
     }
 }
 
