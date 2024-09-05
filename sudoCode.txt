@@ -1,0 +1,7 @@
+# When player clicks one of the button #Rock, #Paper, #Scissor: store the 
+clicked button's text value as PlayerInput variable.
+
+# Compare the PlayerInput variable with computerChoice function and determine
+the winner.
+
+#based on the winner provide the game complete message.
